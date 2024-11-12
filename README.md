@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @rosauraaa
-- 🌱 I’m currently learning engineering in information technologies and digital business.
-- 💞 I’m looking to collaborate on websites design and object oriented programation projects.
-- 😄 Pronouns: she/her
 
 
 <!---
